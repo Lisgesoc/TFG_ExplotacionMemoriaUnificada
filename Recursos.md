@@ -7,7 +7,7 @@
 - https://kerneldigest.dev/glosario/hardware/unified-memory-architecture-uma Arquitectura UMA
 - https://www.nvidia.com/en-us/data-center/nvlink-c2c/ Bus NVLink-c2c 
 ## Software
-- https://arxiv.org/pdf/2609.11972 Paper de un estudio de IA editorial japones, contiene algoritmos poco interesantes excepto los contenidos en el siguiente enlace: https://github.com/bioinfo-tsukuba/local-llm-editorial-benchmark
+- https://github.com/bioinfo-tsukuba/local-llm-editorial-benchmark proyecto de LLMs ejecutado sobre GB10 que puede resultar interesante
 
 
 
