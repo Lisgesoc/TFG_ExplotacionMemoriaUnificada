@@ -15,3 +15,9 @@
 
 ## Buscar sobre :
 - mecanismos concretos como coherencia de caché, IOMMU/gestión de páginas compartidas
+
+## reunion
+- https://rodinia.cs.virginia.edu/ Rodinia becnmarck
+- https://github.com/cavazos-lab/PolyBench-ACC Polibench ACC
+- https://bair.berkeley.edu/blog/ Universidad de berkley Traducción CUDA->MLX para probar algoritmos en apple y nvidia
+- https://dl.acm.org/doi/10.1145/3148173.3148184 modified the open source LLVM compiler to allow OpenMP programs to exploit unified memory
